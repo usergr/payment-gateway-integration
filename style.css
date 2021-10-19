@@ -1,0 +1,53 @@
+body,
+html {
+  height: 100%;
+  font-family: 'Poppins', sans-serif !important;
+}
+.backgroundimg {
+  background-image: url("img/charity.jpg");
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  width: 100%;
+  height: 721px;
+  opacity: 0.8;
+}
+.headerset {
+  padding-top: 250px;
+  box-sizing: border-box;
+}
+
+.headerset h2 {
+  font-size: 62px;
+}
+
+.headerset h1 {
+  font-size: 72px;
+  font-weight: bold;
+}
+.theme {
+  background-color: #0c58a3 !important;
+}
+a {
+  color: #e2e2e2 !important;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+.footer-wrap a {
+  color: #597ac2 !important;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+.text-white {
+  color: rgb(255, 255, 255) !important;
+}
+.push {
+  margin-bottom: 5rem;
+}
+.PaymentButton--dark.svelte-ekc7fv.svelte-ekc7fv {
+  color: #fff !important;
+  font-style: normal !important;
+}
+
